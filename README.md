@@ -15,14 +15,16 @@ Building a Network Monitoring System with Snort
 # Build Web
 ## Build Artifact sử dụng maven
 ![image](https://github.com/user-attachments/assets/ee00029b-3df2-44c2-908d-7c3c5b3337dd)
-### Web application
+## Web application
 ![image](https://github.com/user-attachments/assets/cc5119fe-62c9-43e1-8369-3925b67d891e)
 # Cấu hình Alert trên Graylog
 ![image](https://github.com/user-attachments/assets/caa3571b-54e9-4243-9101-cdeb6659110c)
 # Thử nghiệm các dạng tấn công và gửi cảnh báo
 ## Tấn công DoS
 ![image](https://github.com/user-attachments/assets/c7c1a924-2c20-4b15-baad-7291029f4bb0)
+### Alert trên Graylog
 ![image](https://github.com/user-attachments/assets/5624442e-3054-4406-9018-eb33002f011e)
+### Email cảnh báo từ Graylog
 ![image](https://github.com/user-attachments/assets/423df30f-b2d7-4b38-a6a8-924342947b6f)
 ## Tấn công Brute Force SSH
 ![image](https://github.com/user-attachments/assets/4008b85c-e90a-4331-b50c-3e10038ed887)
