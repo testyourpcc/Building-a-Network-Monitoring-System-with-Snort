@@ -12,6 +12,11 @@ Building a Network Monitoring System with Snort
 ![image](https://github.com/user-attachments/assets/41b39d37-1603-40d7-92df-7b9d8d4771dd)
 # Rule Snort
 ![image](https://github.com/user-attachments/assets/d7a2fa54-aef1-4db2-aa52-153bfab89c26)
+# Build Web
+## Build Artifact sử dụng maven
+![image](https://github.com/user-attachments/assets/ee00029b-3df2-44c2-908d-7c3c5b3337dd)
+### Web application
+![image](https://github.com/user-attachments/assets/cc5119fe-62c9-43e1-8369-3925b67d891e)
 # Cấu hình Alert trên Graylog
 ![image](https://github.com/user-attachments/assets/caa3571b-54e9-4243-9101-cdeb6659110c)
 # Thử nghiệm các dạng tấn công và gửi cảnh báo
